@@ -19,7 +19,7 @@ Backup de Gitlab en docker
 * ejecuta script runBackup
 
 ## Prueba Restore
-* copia el tar generado en la ruta /var/opt/gitlab/backups/*
+* copia el tar generado en la ruta /var/opt/gitlab/backups
 * Para los siguientes servicios
 
         gitlab-ctl stop unicorn
