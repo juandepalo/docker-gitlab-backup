@@ -11,4 +11,4 @@ Backup de Gitlab en docker
 ### commandBackup.sh
     Comando para creacion de backup de gitlab
 ### runBackup
-    script que copia el commandBackup al contenedor, ejecuta y extrae a la áquina local el backup de gitlab.
+    script que copia el commandBackup al contenedor, ejecuta y extrae a la máquina local el backup de gitlab.
