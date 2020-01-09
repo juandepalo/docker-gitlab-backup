@@ -38,3 +38,7 @@ Backup de Gitlab en docker
 
         gitlab-ctl start
         gitlab-rake gitlab:check SANITIZE=true
+
+
+Web Referencia documentacon
+https://docs.bitnami.com/oci/apps/gitlab/administration/backup-restore/
