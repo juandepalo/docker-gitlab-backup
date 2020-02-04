@@ -1,0 +1,1 @@
+rm -rf /var/opt/gitlab/backups/*
