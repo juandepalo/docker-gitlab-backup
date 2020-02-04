@@ -1,1 +1,1 @@
-0 5 * * * /home/winby/runBackup.sh >> /tmp/logs.txt 2>&1
+0 5 * * * /home/userstmp/runBackup.sh >> /tmp/logs.txt 2>&1
